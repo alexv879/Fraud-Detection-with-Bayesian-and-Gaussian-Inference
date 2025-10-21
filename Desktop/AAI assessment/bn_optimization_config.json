@@ -1,0 +1,14 @@
+{
+  "top_features": [
+    "Transaction_Amount",
+    "Authentication_Method",
+    "Location",
+    "Merchant_Category",
+    "Device_Type",
+    "Card_Type",
+    "Transaction_Type"
+  ],
+  "binning_config": {
+    "Transaction_Amount": 10
+  }
+}
