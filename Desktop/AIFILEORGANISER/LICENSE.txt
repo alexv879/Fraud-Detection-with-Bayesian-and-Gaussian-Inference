@@ -1,0 +1,91 @@
+PRIVATE AI FILE ORGANISER - PROPRIETARY LICENSE
+==============================================
+
+Copyright (c) 2025 Alexandru Emanuel Vasile. All rights reserved.
+
+LIMITED RELEASE LICENSE (200-Key Model)
+
+This software is proprietary and confidential. By obtaining a license key
+and using this software, you agree to the following terms:
+
+1. LICENSE GRANT
+   Subject to the terms of this agreement, we grant you a limited, non-exclusive,
+   non-transferable license to use the Private AI File Organiser software for
+   the duration specified in your license activation.
+
+2. LICENSE SCOPE
+   - Total Available Licenses: 200
+   - License Duration: 30 days from activation
+   - License Type: Single-user, single-device
+   - Renewal: Available through official channels
+
+3. RESTRICTIONS
+   You may NOT:
+   - Redistribute, sell, or sublicense the software
+   - Reverse engineer, decompile, or disassemble the software
+   - Remove or modify any proprietary notices
+   - Use the software for commercial purposes without explicit permission
+   - Share your license key with others
+   - Use the software after license expiration
+
+4. PRIVACY & DATA
+   - All data processing occurs locally on your device
+   - No user data is collected or transmitted without consent
+   - License validation may require internet connectivity
+   - No telemetry or analytics by default
+
+5. OWNERSHIP
+   This software and all associated intellectual property rights remain
+   the exclusive property of Alexandru Emanuel Vasile. This license does
+   not grant you any ownership rights.
+
+6. WARRANTY DISCLAIMER
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+   THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+   FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+   DEALINGS IN THE SOFTWARE.
+
+7. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL ALEXANDRU EMANUEL VASILE BE LIABLE FOR ANY SPECIAL,
+   INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING,
+   WITHOUT LIMITATION, DAMAGES FOR LOSS OF DATA, BUSINESS INTERRUPTION,
+   OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY
+   TO USE THIS SOFTWARE.
+
+8. TERMINATION
+   This license is effective until terminated. Your rights under this license
+   will terminate automatically without notice if you fail to comply with any
+   term of this agreement. Upon termination, you must cease all use of the
+   software and destroy all copies.
+
+9. UPDATES & SUPPORT
+   - Updates may be provided at our discretion
+   - Support is provided as outlined in documentation
+   - No guarantee of continued updates or support
+
+10. GOVERNING LAW
+    This agreement shall be governed by and construed in accordance with the
+    laws of [Your Jurisdiction], without regard to its conflict of law provisions.
+
+11. ENTIRE AGREEMENT
+    This license constitutes the entire agreement between you and Alexandru
+    Emanuel Vasile regarding the use of this software and supersedes all
+    prior agreements.
+
+12. CONTACT
+    For licensing questions, support, or inquiries:
+    GitHub: https://github.com/alexv879/AIFILEORGANISER
+
+By activating a license key and using this software, you acknowledge that
+you have read this license agreement, understand it, and agree to be bound
+by its terms and conditions.
+
+Last Updated: November 1, 2025
+Version: 1.0.0
+
+==============================================
+Alexandru Emanuel Vasile
+© 2025 All Rights Reserved
